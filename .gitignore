@@ -1,0 +1,9 @@
+node_modules
+__pycache__
+public
+pycli
+cli.py
+getter.py
+scanner.py
+templates.py
+
